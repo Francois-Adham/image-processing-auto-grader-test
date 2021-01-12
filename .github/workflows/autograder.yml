@@ -9,7 +9,7 @@ jobs:
     env:
       SUBMISSION_DOWNLOAD_LINK: "https://drive.google.com/file/d/1S4PEJPmZSTNWAUP2oFs4gQTN_jwwMmFV/view?usp=sharing"
     
-    
+  
     steps:
     - name: Set up Python 3.6
       uses: actions/setup-python@v2
